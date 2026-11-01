@@ -1,0 +1,24 @@
+# Local data and generated outputs
+data/
+results/
+outputs/
+*.rds
+*.RData
+*.h5
+*.h5ad
+*.h5seurat
+*.mtx
+*.mtx.gz
+*.tsv.gz
+*.tbi
+*.bam
+*.bai
+.Rhistory
+.RData
+.Rproj.user/
+.ipynb_checkpoints/
+__pycache__/
+.env
+.env.*
+*.pem
+*.key
